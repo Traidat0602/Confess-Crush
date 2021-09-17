@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Chị Iu ơi😍",
+    introTitle: 'Trái Đất 🌎🌍🌏',
+    introDesc: `Trái Đất Vốn Lạ Thường
+    Mà Sao Chị Cứ Đi Nhầm Đường
+    Lạc Vào Tim Em  Lẻ Loi
+    Đằng Sau Chữ Yêu Đây Là Thương`,
+    btnIntro: 'Nhấp Vô Đi ♥️',
+    title: 'Có Phải Chị Kết Em Ngay Từ Lần Đầu Tiên Gặp  🥰',
+    desc: 'Phải Chăng CHị Đã Say Em Mất Rồi ',
+    btnYes: 'Ỏ Sao Biết Hay Vậy 💗💗💗',
+    btnNo: 'Mày Mơ À 🙅🙅',
+    question: 'Trên Thế Giới Có Hơn 7 Tỉ Người Mà Sao Chị Lại CHọn Yêu Em 💌💑',
+    btnReply: 'Gửi Lại Em <3',
+    reply: 'Yêu Thì Làm Gì CÓ Lý Do Chứ ( À Chắc Do Chị Bị Cận Á 😉) ',
+    mess: 'Em Biết Tỏng Mà 😘IU Chị Nhìu 😘,Sau Này Để Em Bảo Vệ Chị Nhé ',
+    messDesc: 'Hẹn 7h Tối Thứ 3 Nha Qua Đón Đi Chơi Nha,Iu Chị💋.',
+    btnAccept: 'Okiiiii lun <3 Iu Em ', 
+    messLink: 'https://github.com/traidat0602/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
