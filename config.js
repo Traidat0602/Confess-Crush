@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Mày Mơ À 🙅🙅',
     question: 'Trên Thế Giới Có Hơn 7 Tỉ Người Mà Sao Chị Lại CHọn Yêu Em 💌💑',
     btnReply: 'Gửi Lại Em <3',
-    reply: 'Yêu Thì Làm Gì CÓ Lý Do Chứ ( À Chắc Do Chị Bị Cận Á 😉) ',
+    reply: 'Yêu Thì Làm Gì CÓ Lý Do Chứ,À Chắc Do Chị Bị Cận Á 😉 ',
     mess: 'Em Biết Tỏng Mà 😘IU Chị Nhìu 😘,Sau Này Để Em Bảo Vệ Chị Nhé ',
     messDesc: 'Hẹn 7h Tối Thứ 3 Nha Qua Đón Đi Chơi Nha,Iu Chị💋.',
     btnAccept: 'Okiiiii lun <3 Iu Em ', 
